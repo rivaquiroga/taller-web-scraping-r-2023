@@ -27,6 +27,6 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 ### Sesión 1 (5 de agosto)
 
-:page_facing_up: [Código en vivo]()
+:page_facing_up: [Código en vivo](﻿﻿https://www.dropbox.com/s/pmhz5tyd6sgbhyz/ejercicio-1_extraccion-noticias.R?dl=0)
 
 
