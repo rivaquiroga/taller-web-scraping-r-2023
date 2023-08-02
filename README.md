@@ -13,7 +13,20 @@ install.packages("tidyverse")
 install.packages("janitor")
 ```
 
+## Atajos de teclado útiles
+
+Los siguientes atajos de teclado serán útiles al explorar las páginas web que _escrapearemos_.
+
+| Acción | Windows / Linux | Mac |
+|---|---|---|
+| Abrir el panel de desarrollo | F12<br/>ctrl + shift + i | F12<br/>option + command +i |
+| Abrir el panel de desarrollo con la opción de selección activada | ctrl + shift + c | option/ctrl + command + c |
+
+
 ## Actividades
 
-Durante las dos sesiones del módulo realizaremos una serie de actividades para poner en práctica lo aprendido. En esta sección agregaremos los enlaces a las páginas con las que trabajaremos y al código que iremos escribiendo en vivo durante la clase. 
+### Sesión 1 (5 de agosto)
+
+:page_facing_up: [Código en vivo]()
+
 
