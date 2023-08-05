@@ -25,7 +25,7 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 ## Estructura de nuestro directorio de trabajo
 
-El directorio de en que guardaremos los materiales de la sesión tendrá dos subcarpetas: una para el código y otra para los datos. Todo el código que escribamos asumirá esa estructura de carpetas.
+El directorio de en que guardaremos los materiales de la sesión tendrá dos subcarpetas: una para los datos y otra para el código. Todo el código que escribamos asumirá esa estructura de carpetas (y que no se usó tilde en el nombre de la carpeta para el código).
 
 
 ```
