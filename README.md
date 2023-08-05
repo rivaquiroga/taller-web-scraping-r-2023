@@ -1,5 +1,7 @@
 # Web scraping con R
 
+**ME APARECE QUE EL ANFITRIÓN TODAVÍA NO INICIA LA REUNIÓN EN ZOOM. POR ESO NO HEMOS EMPEZADO AÚN :(**
+
 En este módulo del [Diplomado en Ciencia de Datos UC](https://datascience.uc.cl/) aprenderemos a implementar la técnica de extracción de datos conocida como _web scraping_ usando el paquete {rvest}. Las sesiones serán en modalidad online, los días 5 y 12 de agosto. Este taller es un complemento del [taller de web scraping usando Python](https://github.com/rivaquiroga/taller-web-scraping-python-2023)  realizado en junio. Mostraremos cómo utilizar el paquete {rvest} para extraer texto y tablas, pero nos enfocaremos particularmente en cómo podemos crear nuestras propias funciones para automatizar la extracción de múltiples páginas de un sitio web y cómo limpiar los datos obtenidos. 
 
 ## Preparación
