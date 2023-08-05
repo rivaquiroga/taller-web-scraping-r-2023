@@ -10,6 +10,7 @@ Durante la sesión utilizaremos {rvest} y otros paquetes que son parte de lo que
 
 ```
 install.packages("tidyverse")
+install.packages("beepr")
 install.packages("janitor")
 ```
 
