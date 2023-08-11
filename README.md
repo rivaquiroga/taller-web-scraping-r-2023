@@ -27,20 +27,28 @@ Los siguientes atajos de teclado serán útiles al explorar las páginas web que
 
 ## Estructura de nuestro directorio de trabajo
 
-El directorio de en que guardaremos los materiales de la sesión tendrá dos subcarpetas: una para los datos y otra para el código. Todo el código que escribamos asumirá esa estructura de carpetas (y que no se usó tilde en el nombre de la carpeta para el código).
+El directorio de en que guardaremos los materiales de la sesión tendrá dos subcarpetas: una para los datos y otra para el código. Todo el código que escribamos asumirá esa estructura de carpetas (y que no se usó tilde en el nombre de la carpeta para el código). Para mantener todo en orden, convertiremos nuestro directorio de trabajo en un "proyecto" de RStudio. En el caso de [posit.cloud]([posit.cloud/](https://posit.cloud/)), su espacio de trabajo es ya un proyecto, por lo que no tendrán que hacer el paso adicional de crear uno.
 
 
 ```
-📂 directorio de trabajo
+📂 web-scraping-con-r
     |
     |-- 📁 codigo
     |-- 📁 datos
+    |-- 🔵 web-scraping-con-r.Rproj
 ```
 
 ## Actividades
 
-### Sesión 1 (5 de agosto)
+### Ejercicio 1: extracción de texto, creación de funciones e iteración
 
-:page_facing_up: [Código en vivo](https://www.dropbox.com/s/pmhz5tyd6sgbhyz/ejercicio-1_extraccion-noticias.R?dl=0)
+:page_facing_up: [Código escrito en clases](https://www.dropbox.com/s/pmhz5tyd6sgbhyz/ejercicio-1_extraccion-noticias.R?dl=0)
 
+✨ Versión final del código
+
+### Ejercicio 2: extracción de tablas y limpieza de datos
+
+📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/nyf4xu3o9y6b34hksoxf8/ejercicio-2_extraccion-tablas.R?rlkey=mlj9z9fyn66tdiyrh1guni9o3&dl=0)
+
+✨ Versión final del código
 
