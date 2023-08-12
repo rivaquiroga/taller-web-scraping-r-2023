@@ -48,6 +48,8 @@ El directorio de en que guardaremos los materiales de la sesión tendrá dos sub
 
 ### Ejercicio 2: extracción de tablas y limpieza de datos
 
+🔗 [Página web](https://es.wikipedia.org/wiki/Anexo:Videojuegos_m%C3%A1s_vendidos)
+
 📄 [Código escrito en clases](https://www.dropbox.com/scl/fi/nyf4xu3o9y6b34hksoxf8/ejercicio-2_extraccion-tablas.R?rlkey=mlj9z9fyn66tdiyrh1guni9o3&dl=0)
 
 ✨ Versión final del código
